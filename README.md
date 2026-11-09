@@ -4,6 +4,8 @@ Predicts which ConnectPlus Telecom (fictional) customers are likely to churn, ex
 **whom to contact first** so the budget is spent where it returns the most. Built on the IBM Telco Customer Churn dataset
 (7,043 customers).
 
+App Link: https://customer-churn-prediction-project-bix7huk4vw6cly7n2jtv4x.streamlit.app/
+
 ## Results (included run, untouched hold-out set of 1,409 customers)
 
 | BRD target | Result | Status |
