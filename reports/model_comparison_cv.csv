@@ -1,0 +1,4 @@
+model,cv_roc_auc,cv_roc_auc_std,cv_pr_auc,best_params
+logistic_regression,0.8468785023949452,0.012097243955474188,0.6615081823430083,{'C': np.float64(0.0315)}
+random_forest,0.847450861631527,0.010089654226016235,0.661741476924828,"{'max_depth': 6, 'max_features': 0.3, 'min_samples_leaf': 20, 'n_estimators': 417}"
+xgboost,0.848584975541223,0.01094328151155319,0.6658090996952727,"{'colsample_bytree': np.float64(0.9436), 'learning_rate': np.float64(0.0359), 'max_depth': 2, 'min_child_weight': 3, 'n_estimators': 406, 'reg_lambda': np.float64(7.1651), 'subsample': np.float64(0.6944)}"

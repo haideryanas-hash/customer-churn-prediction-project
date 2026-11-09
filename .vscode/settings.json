@@ -1,0 +1,6 @@
+{
+  "python.terminal.activateEnvironment": true,
+  "python.analysis.extraPaths": ["${workspaceFolder}"],
+  "notebook.output.textLineLimit": 60,
+  "files.exclude": { "**/__pycache__": true }
+}
