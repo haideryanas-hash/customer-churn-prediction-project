@@ -4,6 +4,5 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 data/*.csv
-reports/scored_customers.csv
 reports/holdout_predictions.csv
 reports/train_oof_predictions.csv
